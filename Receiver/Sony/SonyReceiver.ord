@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/OpenRemoteFirmware/JsonSchema/v0/device.schema.json",
+    "parent": "86B0568C-EA30-4FDE-8138-5C417B9D5548",
+    "id": "BD4CCEB0-8E9B-49DB-A8D7-11B376E43B7C",
+    "name": "Sony Receiver file",
+    "description": "This is the base file for all sony receivers. It inherits from BaseReceiver.",
+    "vendor": "Sony"
+}

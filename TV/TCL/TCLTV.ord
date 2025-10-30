@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/OpenRemoteFirmware/JsonSchema/v0/device.schema.json",
+    "id": "F36F1CC5-EE37-48DD-8E6E-740FE84F3E32",
+    "parent": "6100374D-552B-4D47-BD4F-52AE9217A0F2",
+    "name": "Base device file for TCL TVs",
+    "deviceCategory": "Display"
+}

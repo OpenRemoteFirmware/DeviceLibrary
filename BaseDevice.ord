@@ -1,0 +1,6 @@
+{
+    "$schema": "https://raw.githubusercontent.com/OpenRemoteFirmware/JsonSchema/v0/device.schema.json",
+    "id": "ABC18094-2F76-4B46-8604-AAC6E1C14965",
+    "name": "Base Device file",
+    "deviceCategory": "Base"
+}

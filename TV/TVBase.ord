@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/OpenRemoteFirmware/JsonSchema/v0/device.schema.json",
+    "id": "6100374D-552B-4D47-BD4F-52AE9217A0F2",
+    "parent": "ABC18094-2F76-4B46-8604-AAC6E1C14965",
+    "name": "Base device file for TVs",
+    "deviceCategory": "Display"
+}

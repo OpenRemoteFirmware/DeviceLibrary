@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/OpenRemoteFirmware/JsonSchema/v0/device.schema.json",
+    "id": "86B0568C-EA30-4FDE-8138-5C417B9D5548",
+    "parent": "ABC18094-2F76-4B46-8604-AAC6E1C14965",
+    "name": "Base Receiver file",
+    "deviceCategory": "Receiver"
+}

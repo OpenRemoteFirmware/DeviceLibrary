@@ -1,0 +1,13 @@
+{
+    "$schema": "https://raw.githubusercontent.com/OpenRemoteFirmware/JsonSchema/v0/device.schema.json",
+    "parent": "BD4CCEB0-8E9B-49DB-A8D7-11B376E43B7C",
+    "id": "A0BFB618-B8AB-48B2-ACF9-E1AA126A4099",
+    "name": "STR-DH Series",
+    "description": "Device file for the Sony STR-DH series receivers.",
+    "model": "STR-DH",
+    "actions": {
+        "POWER_TOGGLE": {
+            "PRONTO": "0000 0067 0000 0010 0060 0018 0030 0018 0018 0018 0030 0018 0018 0018 0030 0018 0018 0018 0018 0018 0030 0018 0018 0018 0018 0018 0030 0018 0030 0018 0030 0018 0030 0018 0018 0326"
+        }
+    }
+}
